@@ -1,0 +1,8 @@
+{
+    "name": "com.cgw.assets-factory",
+    "displayName": "CGW - Assets Factory",
+    "version": "1.0.0",
+    "description": "Export prefab into an asset file to be loaded by the game factory",
+    "unity": "2022.3",
+    "documentationUrl": "https://github.com/remibodin/CGW-AssetsFactory"
+}
